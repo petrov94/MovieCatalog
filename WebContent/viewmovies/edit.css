@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+body{
+    background-color:#33CCFF;
+}
+.box{
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+p{
+padding-left:10em;
+}

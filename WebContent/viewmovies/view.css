@@ -1,0 +1,8 @@
+body{
+    background-color:#33CCFF;
+}
+.box{
+    position: absolute;
+    left: 700px;
+    top: 300px;
+}

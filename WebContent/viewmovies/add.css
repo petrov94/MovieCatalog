@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+body {
+    background-color: #33CCFF;
+}
+.box {
+    position:fixed;
+    margin-left:-300px; 
+    margin-top:-300px; 
+    top:50%;
+    left:50%;
+}
+.INPUT {
+text-align: center;
+background-color: #33CCFF;
+border: 2px solid transparent;
+border-radius: 3px;
+font-size: 16px;
+font-weight: 200;
+padding: 10px 0;
+width: 600px;
+transition: border .5s;
+}
+p{
+padding-left:10em;
+}
